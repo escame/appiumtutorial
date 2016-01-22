@@ -34,3 +34,4 @@ This is the mini-sized package to start use Appium with iOS mobile Safari browse
 
 5. Quit the driver
 
+# appiumtutorial
